@@ -1,5 +1,10 @@
 # 🐍 Projetos em Python — Rafael Costa
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Status](https://img.shields.io/badge/status-ativo-35e3a3?style=flat-square)
+![License](https://img.shields.io/badge/licença-MIT-34c3e6?style=flat-square)
+[![Rodar ao vivo](https://img.shields.io/badge/▶_rodar_ao_vivo-no_navegador-35e3a3?style=flat-square)](https://rafscorp.github.io/Projetos_Interativos/)
+
 Esse repositório reúne projetos que fiz pra praticar Python na prática, saindo do "hello world" pra programas com persistência de dados, tratamento de erro e organização de código de verdade. A ideia é sempre a mesma: pegar um problema do dia a dia, modelar em código e resolver sem depender de bibliotecas externas — só a standard library mesmo.
 
 ## 📂 Projetos
