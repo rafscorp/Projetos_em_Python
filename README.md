@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/licença-MIT-34c3e6?style=flat-square)
 [![Rodar ao vivo](https://img.shields.io/badge/▶_rodar_ao_vivo-no_navegador-35e3a3?style=flat-square)](https://rafscorp.github.io/Projetos_Interativos/)
 
-Esse repositório reúne projetos que fiz pra praticar Python na prática, saindo do "hello world" pra programas com persistência de dados, tratamento de erro e organização de código de verdade. A ideia é sempre a mesma: pegar um problema do dia a dia, modelar em código e resolver sem depender de bibliotecas externas — só a standard library mesmo.
+Projetos pra sair do "hello world" e treinar Python de verdade — persistência de dados, tratamento de erro, código organizado. Só standard library, sem dependência externa.
 
 ## 📂 Projetos
 
@@ -14,33 +14,19 @@ Esse repositório reúne projetos que fiz pra praticar Python na prática, saind
 | [Gerenciador_Tarefas_CLI](./Gerenciador_Tarefas_CLI) | Iniciante | To-do list de linha de comando com menu interativo, persistência em JSON e dataclass pra representar cada tarefa |
 | [Sistema_Biblioteca](./Sistema_Biblioteca) | Avançado | Sistema de biblioteca orientado a objetos (classes Livro, Membro e Empréstimo), com regras de negócio, cálculo de atraso e persistência em JSON |
 
-## 🚀 Como rodar
-
-Cada projeto é independente e fica na sua própria pasta. Pra rodar qualquer um deles:
-
-1. Tenha o Python 3.x instalado ([python.org](https://www.python.org/downloads/))
-2. Entre na pasta do projeto desejado
-3. Rode o arquivo principal:
+## Como rodar
 
 ```bash
-python nome_do_arquivo.py
+cd <pasta-do-projeto>
+python nome_do_arquivo.py    # nome exato tá no README de cada um
 ```
 
-(o nome exato do arquivo e as instruções específicas estão no README de cada projeto)
+Precisa só do Python 3.x instalado.
 
-Nenhum projeto aqui depende de biblioteca externa — é só clonar e rodar.
+## Tecnologias
 
-## 🛠️ Tecnologias e conceitos
+Python 3 puro, JSON pra persistência, dataclasses, POO, type hints.
 
-- Python 3 (standard library)
-- Persistência de dados em JSON
-- Dataclasses
-- Programação Orientada a Objetos (classes, encapsulamento, regras de negócio)
-- Tratamento de exceções
-- Type hints
-- Menus interativos em terminal
+## Autor
 
-## 👤 Autor
-
-Rafael Costa
-GitHub: [github.com/rafscorp](https://github.com/rafscorp)
+Rafael Costa — [github.com/rafscorp](https://github.com/rafscorp)
